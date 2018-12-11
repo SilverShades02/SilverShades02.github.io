@@ -38,3 +38,23 @@ and (max-device-width : 1024px) {
 		width: 35% !important;
 	}
 }
+
+.gred {
+	color: #DB4437 !important;
+}
+
+.ggreen {
+	color: #0F9D58 !important;
+}
+
+.gyellow {
+	color: #F4B400 !important;
+}
+
+.gblue {
+	color: #4285F4 !important;
+}
+
+.fa-heart {
+	color: red;
+}
