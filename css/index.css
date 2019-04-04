@@ -1,4 +1,10 @@
+@font-face {
+        font-family: googlesans;
+        src: url(../font/GoogleSans.ttf) format('truetype');
+}
+
 body {
+	font-family: googlesans;
 	overflow: hidden;
 	height: 100vh;
 	color: #fafafa;
